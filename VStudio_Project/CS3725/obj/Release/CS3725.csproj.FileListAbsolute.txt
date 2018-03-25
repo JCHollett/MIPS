@@ -1,0 +1,22 @@
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\bin\Release\CS3725.exe.config
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\bin\Release\CS3725.exe
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\bin\Release\CS3725.pdb
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\obj\Release\CS3725.Properties.Resources.resources
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\obj\Release\CS3725.csproj.GenerateResource.Cache
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\obj\Release\CS3725.exe
+C:\Users\Gixbit\Documents\Visual Studio 2015\Projects\CS3725\CS3725\obj\Release\CS3725.pdb
+D:\VStudio_Project\CS3725\bin\Release\CS3725.exe.config
+D:\VStudio_Project\CS3725\obj\Release\CS3725.exe
+D:\VStudio_Project\CS3725\obj\Release\CS3725.pdb
+D:\VStudio_Project\CS3725\bin\Release\CS3725.exe
+D:\VStudio_Project\CS3725\bin\Release\CS3725.pdb
+D:\VStudio_Project\CS3725\obj\Release\CS3725.Properties.Resources.resources
+D:\VStudio_Project\CS3725\obj\Release\CS3725.csproj.GenerateResource.Cache
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\bin\Release\CS3725.exe.config
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\obj\Release\CS3725.exe
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\obj\Release\CS3725.pdb
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\bin\Release\CS3725.exe
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\bin\Release\CS3725.pdb
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\obj\Release\CS3725.csprojResolveAssemblyReference.cache
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\obj\Release\CS3725.Properties.Resources.resources
+C:\Users\Gixbit\Desktop\USB\VStudio_Project\CS3725\obj\Release\CS3725.csproj.GenerateResource.Cache
